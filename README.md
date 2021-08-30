@@ -1,2 +1,2 @@
 # hoezoudewindthuiswaaien
-'Hoe zou de wind thuis waaien?' is een digitaal textexperiment gemaakt door Emilie Pariel.
+'Hoe zou de wind thuis waaien?' is een digitaal teksttexperiment gemaakt door Emilie Pariel.
