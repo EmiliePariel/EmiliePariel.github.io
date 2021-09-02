@@ -196,7 +196,7 @@ function initialize() {
 	gTextArray[3][6] = "ik vlieg. Al vlieg ik nog zelden "
 	gTextArray[3][7] = "op eigen krachten, "
 	gTextArray[3][8] = "meestal komt er muziek bij kijken, "
-	gTextArray[3][9] = "literatuur, koffie, sigaretten, alcohol, andere verdovende of hallicunogene middelen. In vervaagde tijden "
+	gTextArray[3][9] = "literatuur, koffie, sigaretten, alcohol, andere verdovende middelen. In vervaagde tijden "
 	gTextArray[3][10] = "was het leven zelf mijn hallucinogeen: ik stond op, ademde "
 	gTextArray[3][11] = "alle deeltjes van de wereld in, "
 	gTextArray[3][12] = "stond te trillen op mijn benen, overweldigd, "
