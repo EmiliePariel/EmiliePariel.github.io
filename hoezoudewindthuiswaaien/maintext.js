@@ -88,7 +88,7 @@ function initialize() {
 	}
 	// Initializes gTextArray to be a 2-dimensional array.
 	gTextArray[0][0] = "Ik ga op vakantie om mijn zintuigen "
-	gTextArray[0][1] = "weer te gebruiken. Het idee. "
+	gTextArray[0][1] = "weer te gebruiken. Het idee "
 	gTextArray[0][2] = "dat ik op onbekende grond verkeer "
 	gTextArray[0][3] = "verhoogt mijn hartslag. "
 	gTextArray[0][4] = "In de verte razen vrachtwagens "
