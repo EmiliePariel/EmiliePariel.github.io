@@ -191,7 +191,7 @@ function initialize() {
 	gTextArray[3][1] = "iedere ochtend "
 	gTextArray[3][2] = "de krant leest en hetzelfde ontbijt eet zonder "
 	gTextArray[3][3] = "zichzelf van kant te willen maken. "
-	gTextArray[3][4] = "Mijn huid kleeft aande bodem van "
+	gTextArray[3][4] = "Mijn huid kleeft aan de bodem van "
 	gTextArray[3][5] = "het moeras dat mijn leven is. Zo voelt het "
 	gTextArray[3][6] = "soms. Soms voelt het alsof "
 	gTextArray[3][7] = "ik vlieg. Al vlieg ik nog zelden "
